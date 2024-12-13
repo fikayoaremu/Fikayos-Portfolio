@@ -35,6 +35,8 @@ Conclusion:
 The customer base can be effectively divided into three groups with distinct characteristics:
 
 Highly Active Customers show strong engagement, a higher number of children, and moderate income.
+
 Moderately Active Customers are characterized by higher income but lower engagement and fewer children.
+
 Least Active Customers are younger, have minimal income, and demonstrate low engagement with the company.
 
