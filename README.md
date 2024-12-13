@@ -1,2 +1,2 @@
-# Fikayos-Portfolio
+# Fikayo-Portfolio
 My Data Portfolio
